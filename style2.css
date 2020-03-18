@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+}
+header{
+    background-color:blueviolet;
+}
+nav{
+    background-color:royalblue;
+    color: black;
+
+}
+
+
+nav li{
+    display: inline-block;
+    width: 33%;
+}
+
+html, body{
+    margin: 0;
+}
+
+a{
+    display: inline-block;
+    align-items: center;
+}
+
+a:hover{
+    color: green;
+    background-color: aqua;
+}
+
+p{
+    text-align: center;
+}
+
+
+article{
+    background-color: brown;
+    
+}
+
+section{
+    background-color: gold;
+    
+}
+
+aside{
+    background-color: aqua;
+}
+
+footer{
+    background-color: khaki;
+    text-align: justify;
+}
+
+
+nav ul{
+    list-style-type: none;
+}
+
+.background
+{
+    background-color: #4e555b;
+}

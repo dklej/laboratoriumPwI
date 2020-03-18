@@ -1,0 +1,71 @@
+header{
+    background-color: greenyellow;
+}
+
+nav{
+    background-color:bisque; 
+}
+
+article{
+    background-color: darkorchid
+    
+}
+
+section{
+    background-color: deeppink;
+    
+}
+
+footer{
+    font-size: 14px;
+    color: white;
+    background-color: aquamarine;
+}
+aside{
+    background-color: cornflowerblue;
+    width: 33%;
+}
+
+main{
+    display: flex;
+    align-content: space-between;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    list-style-type: none;
+    text-align: center;
+    
+}
+li{
+    width: 33%;
+    display:inline-block; 
+}
+li:hover{
+    background-color: coral;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color:burlywood;
+}
+
+table{
+    border: 1px;
+}
+
+
+
+html, body{
+    margin: 0px;
+    
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}

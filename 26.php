@@ -13,7 +13,7 @@
         echo "Nie ma ciasteczek";
     }
     else{
-        echo 'Kot ma Alę';
+         echo $_COOKIE["ciasto1"];
     }
 
     

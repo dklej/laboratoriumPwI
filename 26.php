@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8" />
-    <title>25.php</title>
+    <title>26.php</title>
 </head>
  
 <body>
